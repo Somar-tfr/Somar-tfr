@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Somar-tfr
-- 👀 I’m interested in Computer Science
+- 👀 I’m Studyin Computer Science in Fernuni-Hagen in Germany
 - 🌱 I’m currently learning Fullstack web developement
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me? on my Linkedin: https://www.linkedin.com/in/somar-taifour/
